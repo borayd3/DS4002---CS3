@@ -10,3 +10,13 @@ This folder contains all the code scripts needed to conduct this case study. Thi
 
 ## References Folder
 This folder holds all reference materials such as reports, blog posts, and articles that provide supplemental information about declining Taxi ridership. There are also a few files detailing how to build a SARIMA or BSTS model and other background information on these models.
+
+## References
+
+[1] Badgujar, S. (2022, July 28). Chicago public taxi data analysis (over 200 million rows!). Medium. https://medium.com/@sumeetbadgujar/chicago-public-taxi-data-analysis-over-200-million-rows-f0b4549a09bf
+
+[2] Cab Drivers United. (n.d.). Run off the road: Chicago’s taxi medallion foreclosure crisis. https://actionnetwork.org/user_files/user_files/000/016/049/original/Medallion_Report_(FINAL).pdf
+
+[3] City of Chicago. (2014, November 18). Chicago issues first two transportation network provider (rideshare) licenses to Sidecar and Lyft. Chicago.gov.
+
+[4] Scott, S. L. (2017, July 11). Fitting Bayesian structural time series with the bsts R package. The Unofficial Google Data Science Blog. https://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html
