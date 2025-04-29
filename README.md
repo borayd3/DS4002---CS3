@@ -8,7 +8,7 @@ This folder contains both an uncleaned, raw version of the taxi ridership data f
 ## Scripts Folder
 This folder contains all the code scripts needed to conduct this case study. This includes "Data Cleaning and Validation Graph.R" which will be used to clean the data and create some EDA plots,"BSTS model and evaluation metric.R" which will be used to build and calculate the evaluation metrics for the BSTS model, and "SARIMA model and evaluation metrics.R" which will be employed to build and calculate the evaluation metrics for the SARIMA model.
 
-## References Folder
+## Reference Materials Folder
 This folder holds all reference materials such as reports, blog posts, and articles that provide supplemental information about declining Taxi ridership[1][2]. There are also a few files detailing how to build a SARIMA[3] or BSTS[4] model and other background information on these models.
 
 ## References
