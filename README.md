@@ -9,7 +9,7 @@ This folder contains both an uncleaned, raw version of the taxi ridership data f
 This folder contains all the code scripts needed to conduct this case study. This includes "Data Cleaning and Validation Graph.R" which will be used to clean the data and create some EDA plots,"BSTS model and evaluation metric.R" which will be used to build and calculate the evaluation metrics for the BSTS model, and "SARIMA model and evaluation metrics.R" which will be employed to build and calculate the evaluation metrics for the SARIMA model.
 
 ## References Folder
-This folder holds all reference materials such as reports, blog posts, and articles that provide supplemental information about declining Taxi ridership. There are also a few files detailing how to build a SARIMA or BSTS model and other background information on these models.
+This folder holds all reference materials such as reports, blog posts, and articles that provide supplemental information about declining Taxi ridership[1][2]. There are also a few files detailing how to build a SARIMA[3] or BSTS[4] model and other background information on these models.
 
 ## References
 
@@ -17,6 +17,6 @@ This folder holds all reference materials such as reports, blog posts, and artic
 
 [2] Cab Drivers United. (n.d.). Run off the road: Chicago’s taxi medallion foreclosure crisis. https://actionnetwork.org/user_files/user_files/000/016/049/original/Medallion_Report_(FINAL).pdf
 
-[3] City of Chicago. (2014, November 18). Chicago issues first two transportation network provider (rideshare) licenses to Sidecar and Lyft. Chicago.gov.
+[3] GeeksforGeeks. (2023, November 17). SARIMA (Seasonal Autoregressive Integrated Moving Average). GeeksforGeeks. https://www.geeksforgeeks.org/sarima-seasonal-autoregressive-integrated-moving-average/
 
 [4] Scott, S. L. (2017, July 11). Fitting Bayesian structural time series with the bsts R package. The Unofficial Google Data Science Blog. https://www.unofficialgoogledatascience.com/2017/07/fitting-bayesian-structural-time-series.html
